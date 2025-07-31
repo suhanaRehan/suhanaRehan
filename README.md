@@ -1,6 +1,6 @@
 Hello, I'm suhana Rehan 👋
 👨‍💻 About Me
-I'm a third-year Computer Science and Engineering polytechnic student at SVS group of institutions , with a passion for coding and technology. I'm currently diving deep into subjects like data structures, algorithms, operating systems, and web design. I enjoy learning about efficient coding techniques and collaborating on projects to gain practical experience.
+I'm a 2nd year student in SR University , with a passion for coding and technology. I'm currently diving deep into subjects like data structures, algorithms, operating systems, and web design. I enjoy learning about efficient coding techniques and collaborating on projects to gain practical experience.
 
 🌱 What I'm Learning
 Programming Languages: C, C++, Java, Python
