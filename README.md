@@ -1,9 +1,11 @@
 Hello, I'm suhana Rehan 👋
 👨‍💻 About Me
-I'm a 2nd year student of CSE B-TECH in SR University , with a passion for coding and technology. I'm currently diving deep into subjects like python,java script,java. I enjoy learning about efficient and cool coding techniques and collaborating on projects to gain practical experience.
+I'm a 3rd year student of CSE B-TECH in SR University , with a passion for coding and technology. I'm currently diving deep into subjects like C#,.net and asp.net core. I enjoy learning about efficient and cool coding techniques and collaborating on projects to gain practical experience.
 
 🌱 What I'm Learning
-Programming Languages: C, C++, Java, Python
+Programming Languages: C#,Python,JavaScript,C++
+Frontend : HTML5,CSS3,TailwindCSS,React,Angular
+Backend :Node.js,Express.js,.NET,JWT,REST APIs
 Database Management: SQL, MySQL
 Tools and Technologies: Git, Visual Studio Code,pycharm
 
